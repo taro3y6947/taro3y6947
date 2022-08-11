@@ -1,5 +1,5 @@
 ### Thanks for browsing my Github, I'm taro3y6947. 👋
-**I am very happy to join the big family of github. I am a senior and an undergraduate student. I hope to bring you more knowledge of integrated circuits.**
+**I am very happy to join the big family of github.I am a senior undergraduate student. I hope to bring you more knowledge of integrated circuits.**
 ### Personal Profile                               
 - 🔭 JXUST-EST            
 - 🌱 Integrated circuit design
