@@ -2,7 +2,7 @@
 **I am very happy to join the big family of github.I am a senior undergraduate student. I hope to bring you more knowledge of integrated circuits.**
 ### Personal Profile                               
 - 🔭 JXUST-EST            
-- 🌱 Integrated circuit design
+- 🌱 IC Design
 - 📫 QQ: 1033505190
 - 📫 E-mail: jxust_ytr@163.com      
 
